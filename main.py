@@ -1,1 +1,1 @@
-print("Triggering push webhook!")
+print("Forget to add endpoint in github webhook workflow!")
