@@ -1,2 +1,3 @@
 print("Forget to add endpoint in github webhook workflow!")
 print("Testing merge request from feature-merge-test branch")
+print("Triggering push webhook!")
